@@ -4,4 +4,4 @@ The Engineering Society's Software Development Team (ESSDEV) is a team that crea
 ### Current Projects
 - [Computer Vision Weightlifting Coach](https://github.com/essdev-team/computer-vision-weightlifting)
 - [OnQ Chrome Extension](https://github.com/essdev-team/onq-chrome-extension)
-- [Video Game](https://github.com/essdev-team/video-game)
+- [Video Game](https://github.com/essdev-team/racing-game)
